@@ -36,11 +36,11 @@ In this system, users complete the donation and use funds with smart contracts. 
 
 ## Tech Stack used - Remix IDE
 ## Step by Step Procedure to run your respective Project in our Local Machine - 
-visit -https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=builtin
-select javascript virtual machine in  deploy and run section
-Create a new file in workshop named anything[dot]sol
-Copy Donera_charity.sol code
-solidity compiler will compile automatically
-goto deploy and run
-Deploy the smart contract on VM
+1. visit -https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=builtin
+2. select javascript virtual machine in  deploy and run section
+3. Create a new file in workshop named anything[dot]sol
+4. Copy Donera_charity.sol code
+5. solidity compiler will compile automatically
+6. goto deploy and run
+7. Deploy the smart contract on VM
 
