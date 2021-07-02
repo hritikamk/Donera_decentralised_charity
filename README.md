@@ -1,5 +1,11 @@
 # Donera_decentralised_charity
 
+## Name - Hritika Kucheriya
+## College - A.P. Shah Institute of Technology, thane
+## Theme - Blockchain / Solidity
+## Discord Username - Flamingo#9267
+## Detailed Explanation of the Idea-
+
 ## PROBLEM STATEMENT :
 *The lack of transparency has made people lose trust in charities, making social funding stagnant. The donor is unaware of the legitimate utilization of his funds. Corruption adds to the distrust of the donor. This paper proposes a system called Charity-Chain that is a decentralized network built on the Ethereum blockchain. It helps social organizations to run projects transparently, using smart contract-based incentives to ensure their impact is independently verified and accessible to everyone. This makes it much easier for funders (philanthropic organizations, impact investors, small donors) to monitor their transactions and hence restore their trust in giving to such social organizations.*
 
@@ -27,3 +33,14 @@ In this system, users complete the donation and use funds with smart contracts. 
 ### Once the target is reached, the beneficiary can request a withdrawal. 
 ### A withdrawal request will open voting for the request.
 ### Any user can vote and once the voting reaches a target (e.g. 500 users with >=90%) the fund will be transferred to the beneficiary account, else money will be revert back to the donors.
+
+## Tech Stack used - Remix IDE
+## Step by Step Procedure to run your respective Project in our Local Machine - 
+visit -https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=builtin
+select javascript virtual machine in  deploy and run section
+Create a new file in workshop named anything[dot]sol
+Copy Donera_charity.sol code
+solidity compiler will compile automatically
+goto deploy and run
+Deploy the smart contract on VM
+
