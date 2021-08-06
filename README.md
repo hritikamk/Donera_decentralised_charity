@@ -1,9 +1,6 @@
 # Donera_decentralised_charity
 
-## Name - Hritika Kucheriya
-## College - A.P. Shah Institute of Technology, thane
-## Theme - Blockchain / Solidity
-## Discord Username - Flamingo#9267
+
 ## Detailed Explanation of the Idea-
 
 ## PROBLEM STATEMENT :
